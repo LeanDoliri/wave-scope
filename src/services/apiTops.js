@@ -6,8 +6,8 @@ const options = {
   },
 };
 
-export async function getTop200({ country } = { country: "GLOBAL" }) {
-  const url = `https://spotify81.p.rapidapi.com/top_200_tracks?country=${country}`;
+export async function getTop200({ countryCode }) {
+  const url = `https://spotify81.p.rapidapi.com/top_200_tracks?country=${countryCode}`;
 
   try {
     const response = await fetch(url, options);

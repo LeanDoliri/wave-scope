@@ -1,7 +1,7 @@
 import { useNewRealeases } from "../../hooks/useNewRealeases";
 
-export function NewReleases() {
-  const { loading, newReleases } = useNewRealeases();
+export function NewReleases({ countryCode }) {
+  const { loading, newReleases } = useNewRealeases({ countryCode });
 
   return (
     <ul>
@@ -12,7 +12,7 @@ export function NewReleases() {
           <li key={album.id}>
             <p>{album.name}</p>
             <p>{album.artists[0].name}</p>
-            <img src={album.images[2].url} alt={album.name} />
+            <img src={album.images[0].url} alt={album.name} />
           </li>
         ))
       )}

@@ -1,9 +1,10 @@
 import { useTop200 } from "../../hooks/useTop200";
 
-export function Top200() {
-  const { loading, top200 } = useTop200();
+export function Top200({ countryCode, countryName }) {
+  const { loading, top200 } = useTop200({ countryCode });
 
-  return (
+  return (<div>
+    <h1>{countryName}</h1>
     <ul>
       {loading ? (
         <li>Cargando...</li>
@@ -15,5 +16,6 @@ export function Top200() {
         ))
       )}
     </ul>
+    </div>
   );
 }
