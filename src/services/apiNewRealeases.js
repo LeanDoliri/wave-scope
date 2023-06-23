@@ -1,3 +1,5 @@
+import mock from "../../newRealeasTemplate.json"
+
 const options = {
   method: "GET",
   headers: {
@@ -10,14 +12,15 @@ export async function getNewRealeases({ countryCode }) {
   const url = `https://spotify117.p.rapidapi.com/new_releases/?country=${"AR"}`;
 
   try {
-    await new Promise((resolve) => setTimeout(resolve, 1000));
-    const response = await fetch(url, options);
-    const result = await response.json();
-    const { albums } = result;
+    // const response = await fetch(url, options);
+    // const result = await response.json();
+    // const { albums } = result;
+    // const { items } = albums;
+    // return items;
+    const { albums } = mock;
     const { items } = albums;
     return items;
   } catch (error) {
-    
     return error;
   }
 }

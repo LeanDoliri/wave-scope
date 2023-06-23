@@ -1,3 +1,5 @@
+import mock from "../../top200.json"
+
 const options = {
   method: "GET",
   headers: {
@@ -10,9 +12,10 @@ export async function getTop200({ countryCode }) {
   const url = `https://spotify81.p.rapidapi.com/top_200_tracks?country=${countryCode}`;
 
   try {
-    const response = await fetch(url, options);
-    const result = await response.json();
-    return result;
+    // const response = await fetch(url, options);
+    // const result = await response.json();
+    // return result;
+    return mock;
   } catch (error) {
     return error;
   }
