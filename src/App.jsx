@@ -9,7 +9,7 @@ function App() {
   const { countryCode, countryName } = useLocation();
 
   return (
-    <div className="bg-cream">
+    <div className="bg-albescentWhite-100">
       <Navbar />
       <main>
         <section>

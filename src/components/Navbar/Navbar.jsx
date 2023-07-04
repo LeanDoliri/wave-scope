@@ -36,8 +36,8 @@ export function Navbar() {
                         href={item.href}
                         className={classNames(
                           item.current
-                            ? "bg-yellow text-dark"
-                            : "text-dark hover:bg-yellow",
+                            ? "bg-buttercup-400 text-mineShaft-900"
+                            : "text-mineShaft-900 hover:bg-buttercup-400",
                           "rounded-md px-3 py-2 text-lg font-medium"
                         )}
                         aria-current={item.current ? "page" : undefined}
@@ -49,7 +49,7 @@ export function Navbar() {
                 </div>
               </div>
               <div className="flex items-center sm:hidden">
-                <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-dark">
+                <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-mineShaft-900">
                   <span className="sr-only">Open main menu</span>
                   {open ? (
                     <XMarkIcon className="block h-10 w-10" aria-hidden="true" />
@@ -69,8 +69,8 @@ export function Navbar() {
                   href={item.href}
                   className={classNames(
                     item.current
-                      ? " bg-yellow text-dark"
-                      : "text-dark hover:bg-yellow",
+                      ? "bg-buttercup-400 text-mineShaft-900"
+                      : "text-mineShaft-900 hover:bg-buttercup-400",
                     "block rounded-md px-3 py-2 text-lg font-medium"
                   )}
                   aria-current={item.current ? "page" : undefined}
