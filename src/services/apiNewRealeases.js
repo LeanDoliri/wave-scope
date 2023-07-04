@@ -1,4 +1,4 @@
-import mock from "../../newRealeasTemplate.json"
+import mock from "../mocks/newRealeas.json"
 
 const options = {
   method: "GET",

@@ -2,7 +2,6 @@ export function WaveScopeIso({width}) {
   return (
     <svg
       width={width}
-      height="auto"
       viewBox="0 0 215 401"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +19,6 @@ export function WaveScopeLogotipo({width}) {
   return (
     <svg
       width={width}
-      height="auto"
       viewBox="0 0 377 281"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"

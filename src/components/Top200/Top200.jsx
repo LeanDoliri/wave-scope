@@ -1,7 +1,7 @@
-import { useTop200 } from "../../hooks/useTop200";
+import { useSongsTop200 } from "../../hooks/useSongsTop200";
 
-export function Top200({ countryCode, countryName }) {
-  const { loading, top200 } = useTop200({ countryCode });
+export function SongsTop200({ countryCode, countryName }) {
+  const { loading, songsTop200 } = useSongsTop200({ countryCode });
 
   return (<div>
     <h1>{countryName}</h1>
@@ -9,7 +9,7 @@ export function Top200({ countryCode, countryName }) {
       {loading ? (
         <li>Cargando...</li>
       ) : (
-        top200.map((track) => (
+        songsTop200.map((track) => (
           <li key={track.trackMetadata.trackUri}>
             {track.trackMetadata.trackName}
           </li>

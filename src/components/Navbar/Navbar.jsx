@@ -24,7 +24,7 @@ export function Navbar() {
                   <div className="block h-20 w-auto lg:hidden">
                     <WaveScopeLogotipo width={100} />
                   </div>
-                  <div className="hidden h-28 w-auto lg:block">
+                  <div className="align-center hidden h-28 w-auto lg:flex">
                     <WaveScopeLogotipo width={100} />
                   </div>
                 </div>
@@ -49,7 +49,6 @@ export function Navbar() {
                 </div>
               </div>
               <div className="flex items-center sm:hidden">
-                {/* Mobile menu button*/}
                 <Disclosure.Button className="inline-flex items-center justify-center rounded-md p-2 text-dark">
                   <span className="sr-only">Open main menu</span>
                   {open ? (
