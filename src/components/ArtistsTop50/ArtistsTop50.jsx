@@ -6,8 +6,8 @@ export function ArtistsTop50() {
   const { loading, artistsTop50 } = useArtistsTop50();
 
   return (
-    <div>
+    <>
       {loading ? <Spinner /> : "<Podium artistsTop50={artistsTop50} />"}
-    </div>
+    </>
   );
 }

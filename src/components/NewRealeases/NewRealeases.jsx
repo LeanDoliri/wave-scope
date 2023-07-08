@@ -10,7 +10,7 @@ export function NewReleases({ countryCode }) {
       {loading ? (
         <Spinner />
       ) : (
-        newReleases.map((album) => (
+        newReleases.slice(0, 12).map((album) => (
           <AlbumCard key={album.id} album={album} />
         ))
       )}

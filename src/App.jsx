@@ -9,7 +9,7 @@ function App() {
   const { countryCode, countryName } = useLocation();
 
   return (
-    <div>
+    <>
       <Navbar />
       <main className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <section className="mb-5 flex flex-col sm:items-center">
@@ -17,7 +17,7 @@ function App() {
           <ArtistsTop50 />
         </section>
         <section className="mb-5">
-          <Title text={"Songs top 200"} />
+          <Title text={"Top 200 songs"} />
           <SongsTop200 countryCode={countryCode} countryName={countryName} />
         </section>
         <section className="mb-5">
@@ -25,7 +25,7 @@ function App() {
           <NewReleases countryCode={countryCode} countryName={countryName} />
         </section>
       </main>
-    </div>
+    </>
   );
 }
 

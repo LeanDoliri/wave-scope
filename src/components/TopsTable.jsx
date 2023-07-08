@@ -1,10 +1,11 @@
 import { Card, Avatar, ListItem, List } from "@material-tailwind/react";
 
 export default function TopsTable({ songsTop200 }) {
+  const songsTop10 = songsTop200.slice(0, 10)
   return (
     <Card className="w-full bg-albescentWhite-50">
-      <List className="overflow-hidden h-96">
-      {songsTop200.map((song) => {
+      <List className="overflow-hidden">
+      {songsTop10.map((song) => {
         return (
           <ListItem key={song.trackMetadata.trackUri} className="p-0 hover:bg-buttercup-400">
             <div className="flex items-center gap-3">
