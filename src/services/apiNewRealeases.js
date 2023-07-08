@@ -16,7 +16,9 @@ export async function getNewRealeases({ countryCode }) {
     // const result = await response.json();
     // const { albums } = result;
     // const { items } = albums;
+    // console.log(result);
     // return items;
+    
     const { albums } = mock;
     const { items } = albums;
     return items;

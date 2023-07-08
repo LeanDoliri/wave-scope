@@ -15,11 +15,11 @@ export default function AlbumCard({ album }) {
       <CardBody className="px-6 py-3">
         <Typography
           variant="h5"
-          className="text-mineShaft-900 truncate"
+          className="text-mineShaft-900 truncate text-base"
         >
           {album.name}
         </Typography>
-        <Typography className="text-mineShaft-500 truncate">{artists.join(", ")}</Typography>
+        <Typography className="text-mineShaft-500 truncate text-sm">{artists.join(", ")}</Typography>
       </CardBody>
     </Card>
   );
