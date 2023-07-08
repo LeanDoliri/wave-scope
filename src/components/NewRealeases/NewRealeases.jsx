@@ -1,19 +1,16 @@
 import { useNewRealeases } from "../../hooks/useNewRealeases";
+import AlbumCard from "./AlbumCard";
 
 export function NewReleases({ countryCode }) {
   const { loading, newReleases } = useNewRealeases({ countryCode });
 
   return (
-    <ul>
+    <ul className="grid gap-3 md:grid-cols-4 lg:grid-cols-6 grid-cols-2">
       {loading ? (
         <li>Cargando...</li>
       ) : (
         newReleases.map((album) => (
-          <li key={album.id}>
-            <p>{album.name}</p>
-            <p>{album.artists[0].name}</p>
-            <img src={album.images[0].url} alt={album.name} />
-          </li>
+          <AlbumCard key={album.id} album={album} />
         ))
       )}
     </ul>

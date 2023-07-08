@@ -36,8 +36,8 @@ export function Navbar() {
                         href={item.href}
                         className={classNames(
                           item.current
-                            ? "bg-buttercup-400 text-mineShaft-900"
-                            : "text-mineShaft-900 hover:bg-buttercup-400",
+                            ? "bg-buttercup-400/75 text-mineShaft-900"
+                            : "text-mineShaft-900 hover:bg-buttercup-400/75",
                           "rounded-md px-3 py-2 text-lg font-medium"
                         )}
                         aria-current={item.current ? "page" : undefined}
@@ -69,8 +69,8 @@ export function Navbar() {
                   href={item.href}
                   className={classNames(
                     item.current
-                      ? "bg-buttercup-400 text-mineShaft-900"
-                      : "text-mineShaft-900 hover:bg-buttercup-400",
+                      ? "bg-buttercup-400/75 text-mineShaft-900"
+                      : "text-mineShaft-900 hover:bg-buttercup-400/75",
                     "block rounded-md px-3 py-2 text-lg font-medium"
                   )}
                   aria-current={item.current ? "page" : undefined}

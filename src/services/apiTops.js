@@ -3,6 +3,7 @@ import mockArtistsTop50 from "../mocks/artistsTop50.json"
 import { getSearchArtist } from "./apiSearch";
 
 export async function getSongsTop200({ countryCode }) {
+  const url = `https://spotify81.p.rapidapi.com/top_200_tracks?country=${countryCode}`;
   const options = {
     method: "GET",
     headers: {
@@ -10,8 +11,6 @@ export async function getSongsTop200({ countryCode }) {
       "X-RapidAPI-Host": "spotify81.p.rapidapi.com",
     },
   };
-
-  const url = `https://spotify81.p.rapidapi.com/top_200_tracks?country=${countryCode}`;
 
   try {
     // const response = await fetch(url, options);
@@ -33,23 +32,23 @@ export async function getArtistsTop50() {
     },
   };
 
-  async function SearchArtistsData({ name }) {
-    const artistData = await getSearchArtist({name});
-    return artistData;
-  }
+  // async function SearchArtistsData({ name }) {
+  //   const artistData = await getSearchArtist({name});
+  //   return artistData;
+  // }
 
-  async function MakeTop50({ result }) {
-    const top50 = [];
-    for (let index = 0; index < result.length; index++) {
-      const name = result[index].artist;
-      const artistData = await SearchArtistsData({name});
-      result[index].data = artistData;
+  // async function MakeTop50({ result }) {
+  //   const top50 = [];
+  //   for (let index = 0; index < result.length; index++) {
+  //     const name = result[index].artist;
+  //     const artistData = await SearchArtistsData({name});
+  //     result[index].data = artistData;
       
-      top50.push(result[index]);
-    }
+  //     top50.push(result[index]);
+  //   }
 
-    return top50;
-  }
+  //   return top50;
+  // }
 
   try {
     // const response = await fetch(url, options);
@@ -57,7 +56,7 @@ export async function getArtistsTop50() {
     // const top50 = await MakeTop50({result});
     // console.log(top50);
     // return top50;
-    
+    console.log(mockArtistsTop50);
     return mockArtistsTop50;
   } catch (error) {
     console.log(error);
