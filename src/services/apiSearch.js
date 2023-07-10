@@ -2,11 +2,11 @@ export async function getSearchArtist({ name }) {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "ac6d7a52b0mshb4a4780e8bbedefp144c1ajsn00c61502935f",
+      "X-RapidAPI-Key": "dfd8c2187amshcdb50872f86c9a1p1a5409jsna6cf6902f153",
       "X-RapidAPI-Host": "spotify81.p.rapidapi.com",
     },
   };
-  
+
   const url = `https://spotify81.p.rapidapi.com/search?q=${name}&type=artists&offset=0&limit=1&numberOfTopResults=5`;
 
   try {

@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "artist": "The Weeknd",
-    "monthlyListeners": 107.15,
+    "monthlyListeners": 106.78,
     "data": {
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
       "profile": {
@@ -34,7 +34,7 @@
   {
     "rank": 2,
     "artist": "Taylor Swift",
-    "monthlyListeners": 92.04,
+    "monthlyListeners": 93.62,
     "data": {
       "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
       "profile": {
@@ -44,17 +44,17 @@
         "avatarImage": {
           "sources": [
             {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0",
+              "url": "https://i.scdn.co/image/ab6761610000e5ebf173136b94ae2f75f49f8b2b",
               "width": 640,
               "height": 640
             },
             {
-              "url": "https://i.scdn.co/image/ab6761610000f1785a00969a4698c3132a15fbb0",
+              "url": "https://i.scdn.co/image/ab6761610000f178f173136b94ae2f75f49f8b2b",
               "width": 160,
               "height": 160
             },
             {
-              "url": "https://i.scdn.co/image/ab676161000051745a00969a4698c3132a15fbb0",
+              "url": "https://i.scdn.co/image/ab67616100005174f173136b94ae2f75f49f8b2b",
               "width": 320,
               "height": 320
             }
@@ -66,7 +66,7 @@
   {
     "rank": 3,
     "artist": "Ed Sheeran",
-    "monthlyListeners": 82.52,
+    "monthlyListeners": 82.08,
     "data": {
       "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V",
       "profile": {
@@ -98,7 +98,7 @@
   {
     "rank": 4,
     "artist": "Miley Cyrus",
-    "monthlyListeners": 75.09,
+    "monthlyListeners": 75.28,
     "data": {
       "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6",
       "profile": {
@@ -129,40 +129,8 @@
   },
   {
     "rank": 5,
-    "artist": "David Guetta",
-    "monthlyListeners": 75.04,
-    "data": {
-      "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
-      "profile": {
-        "name": "David Guetta"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb75348e1aade2645ad9c58829",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000517475348e1aade2645ad9c58829",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 6,
     "artist": "Rihanna",
-    "monthlyListeners": 74.99,
+    "monthlyListeners": 75.19,
     "data": {
       "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
       "profile": {
@@ -192,9 +160,41 @@
     }
   },
   {
+    "rank": 6,
+    "artist": "David Guetta",
+    "monthlyListeners": 74.95,
+    "data": {
+      "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+      "profile": {
+        "name": "David Guetta"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb75348e1aade2645ad9c58829",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f17875348e1aade2645ad9c58829",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000517475348e1aade2645ad9c58829",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 7,
     "artist": "Bad Bunny",
-    "monthlyListeners": 74.01,
+    "monthlyListeners": 74.37,
     "data": {
       "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
       "profile": {
@@ -226,7 +226,7 @@
   {
     "rank": 8,
     "artist": "Drake",
-    "monthlyListeners": 72.59,
+    "monthlyListeners": 72.5,
     "data": {
       "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
       "profile": {
@@ -258,7 +258,7 @@
   {
     "rank": 9,
     "artist": "Justin Bieber",
-    "monthlyListeners": 72.29,
+    "monthlyListeners": 72.42,
     "data": {
       "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
       "profile": {
@@ -290,7 +290,7 @@
   {
     "rank": 10,
     "artist": "Shakira",
-    "monthlyListeners": 71.47,
+    "monthlyListeners": 71.37,
     "data": {
       "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp",
       "profile": {
@@ -322,7 +322,7 @@
   {
     "rank": 11,
     "artist": "Dua Lipa",
-    "monthlyListeners": 71.12,
+    "monthlyListeners": 70.21,
     "data": {
       "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we",
       "profile": {
@@ -353,40 +353,8 @@
   },
   {
     "rank": 12,
-    "artist": "Ariana Grande",
-    "monthlyListeners": 69.07,
-    "data": {
-      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
-      "profile": {
-        "name": "Ariana Grande"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f178cdce7620dc940db079bf4952",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 13,
     "artist": "Coldplay",
-    "monthlyListeners": 68.92,
+    "monthlyListeners": 68.83,
     "data": {
       "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU",
       "profile": {
@@ -416,9 +384,15 @@
     }
   },
   {
+    "rank": 13,
+    "artist": "Ariana Grande",
+    "monthlyListeners": 68.71,
+    "data": {}
+  },
+  {
     "rank": 14,
     "artist": "Calvin Harris",
-    "monthlyListeners": 66.55,
+    "monthlyListeners": 66.26,
     "data": {
       "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
       "profile": {
@@ -450,7 +424,7 @@
   {
     "rank": 15,
     "artist": "Harry Styles",
-    "monthlyListeners": 65.59,
+    "monthlyListeners": 65.45,
     "data": {
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3",
       "profile": {
@@ -482,7 +456,7 @@
   {
     "rank": 16,
     "artist": "Eminem",
-    "monthlyListeners": 65.5,
+    "monthlyListeners": 65.09,
     "data": {
       "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
       "profile": {
@@ -514,7 +488,7 @@
   {
     "rank": 17,
     "artist": "Metro Boomin",
-    "monthlyListeners": 62.7,
+    "monthlyListeners": 62.75,
     "data": {
       "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
       "profile": {
@@ -545,40 +519,8 @@
   },
   {
     "rank": 18,
-    "artist": "Post Malone",
-    "monthlyListeners": 62.26,
-    "data": {
-      "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
-      "profile": {
-        "name": "Post Malone"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f1786be070445b03e0b63147c2c1",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab676161000051746be070445b03e0b63147c2c1",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 19,
     "artist": "Bruno Mars",
-    "monthlyListeners": 61.96,
+    "monthlyListeners": 62.46,
     "data": {
       "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
       "profile": {
@@ -608,9 +550,41 @@
     }
   },
   {
+    "rank": 19,
+    "artist": "Post Malone",
+    "monthlyListeners": 62.28,
+    "data": {
+      "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
+      "profile": {
+        "name": "Post Malone"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f1786be070445b03e0b63147c2c1",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab676161000051746be070445b03e0b63147c2c1",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 20,
     "artist": "SZA",
-    "monthlyListeners": 61.61,
+    "monthlyListeners": 61.2,
     "data": {
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP",
       "profile": {
@@ -642,7 +616,7 @@
   {
     "rank": 21,
     "artist": "Imagine Dragons",
-    "monthlyListeners": 60.99,
+    "monthlyListeners": 60.6,
     "data": {
       "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q",
       "profile": {
@@ -674,7 +648,7 @@
   {
     "rank": 22,
     "artist": "Maroon 5",
-    "monthlyListeners": 58.64,
+    "monthlyListeners": 58.68,
     "data": {
       "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP",
       "profile": {
@@ -705,40 +679,8 @@
   },
   {
     "rank": 23,
-    "artist": "21 Savage",
-    "monthlyListeners": 57.77,
-    "data": {
-      "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft",
-      "profile": {
-        "name": "21 Savage"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb35ca7d2181258b51c0f2cf9e",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f17835ca7d2181258b51c0f2cf9e",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000517435ca7d2181258b51c0f2cf9e",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 24,
     "artist": "Daddy Yankee",
-    "monthlyListeners": 56.67,
+    "monthlyListeners": 57.47,
     "data": {
       "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m",
       "profile": {
@@ -768,9 +710,41 @@
     }
   },
   {
+    "rank": 24,
+    "artist": "21 Savage",
+    "monthlyListeners": 57.05,
+    "data": {
+      "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft",
+      "profile": {
+        "name": "21 Savage"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb35ca7d2181258b51c0f2cf9e",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f17835ca7d2181258b51c0f2cf9e",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000517435ca7d2181258b51c0f2cf9e",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 25,
     "artist": "Kanye West",
-    "monthlyListeners": 56.62,
+    "monthlyListeners": 56.77,
     "data": {
       "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
       "profile": {
@@ -801,28 +775,28 @@
   },
   {
     "rank": 26,
-    "artist": "Billie Eilish",
-    "monthlyListeners": 55.62,
+    "artist": "Nicki Minaj",
+    "monthlyListeners": 56.23,
     "data": {
-      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+      "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh",
       "profile": {
-        "name": "Billie Eilish"
+        "name": "Nicki Minaj"
       },
       "visuals": {
         "avatarImage": {
           "sources": [
             {
-              "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20",
               "width": 640,
               "height": 640
             },
             {
-              "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+              "url": "https://i.scdn.co/image/ab6761610000f1786a8e5e8752d1dc2dafa63f20",
               "width": 160,
               "height": 160
             },
             {
-              "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+              "url": "https://i.scdn.co/image/ab676161000051746a8e5e8752d1dc2dafa63f20",
               "width": 320,
               "height": 320
             }
@@ -834,7 +808,7 @@
   {
     "rank": 27,
     "artist": "Marshmello",
-    "monthlyListeners": 55.61,
+    "monthlyListeners": 55.81,
     "data": {
       "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T",
       "profile": {
@@ -865,8 +839,40 @@
   },
   {
     "rank": 28,
+    "artist": "Billie Eilish",
+    "monthlyListeners": 55.71,
+    "data": {
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+      "profile": {
+        "name": "Billie Eilish"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "rank": 29,
     "artist": "Sam Smith",
-    "monthlyListeners": 55.34,
+    "monthlyListeners": 54.86,
     "data": {
       "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI",
       "profile": {
@@ -896,73 +902,9 @@
     }
   },
   {
-    "rank": 29,
-    "artist": "Selena Gomez",
-    "monthlyListeners": 55.19,
-    "data": {
-      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
-      "profile": {
-        "name": "Selena Gomez"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f178a5205abffd84341e5bace828",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616100005174a5205abffd84341e5bace828",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
     "rank": 30,
-    "artist": "Lana Del Rey",
-    "monthlyListeners": 54.84,
-    "data": {
-      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-      "profile": {
-        "name": "Lana Del Rey"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 31,
     "artist": "J Balvin",
-    "monthlyListeners": 54.67,
+    "monthlyListeners": 54.72,
     "data": {
       "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5",
       "profile": {
@@ -992,9 +934,41 @@
     }
   },
   {
+    "rank": 31,
+    "artist": "Lana Del Rey",
+    "monthlyListeners": 54.51,
+    "data": {
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+      "profile": {
+        "name": "Lana Del Rey"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 32,
     "artist": "Lady Gaga",
-    "monthlyListeners": 54.51,
+    "monthlyListeners": 54.48,
     "data": {
       "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
       "profile": {
@@ -1025,28 +999,28 @@
   },
   {
     "rank": 33,
-    "artist": "Nicki Minaj",
-    "monthlyListeners": 54.48,
+    "artist": "Selena Gomez",
+    "monthlyListeners": 54.31,
     "data": {
-      "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh",
+      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
       "profile": {
-        "name": "Nicki Minaj"
+        "name": "Selena Gomez"
       },
       "visuals": {
         "avatarImage": {
           "sources": [
             {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20",
+              "url": "https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828",
               "width": 640,
               "height": 640
             },
             {
-              "url": "https://i.scdn.co/image/ab6761610000f1786a8e5e8752d1dc2dafa63f20",
+              "url": "https://i.scdn.co/image/ab6761610000f178a5205abffd84341e5bace828",
               "width": 160,
               "height": 160
             },
             {
-              "url": "https://i.scdn.co/image/ab676161000051746a8e5e8752d1dc2dafa63f20",
+              "url": "https://i.scdn.co/image/ab67616100005174a5205abffd84341e5bace828",
               "width": 320,
               "height": 320
             }
@@ -1058,7 +1032,7 @@
   {
     "rank": 34,
     "artist": "Doja Cat",
-    "monthlyListeners": 53.6,
+    "monthlyListeners": 54.07,
     "data": {
       "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5",
       "profile": {
@@ -1089,40 +1063,8 @@
   },
   {
     "rank": 35,
-    "artist": "Peso Pluma",
-    "monthlyListeners": 53.5,
-    "data": {
-      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ",
-      "profile": {
-        "name": "Peso Pluma"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb78198798bf52ec66aaf186a8",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f17878198798bf52ec66aaf186a8",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000517478198798bf52ec66aaf186a8",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 36,
     "artist": "Katy Perry",
-    "monthlyListeners": 52.92,
+    "monthlyListeners": 53.52,
     "data": {
       "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
       "profile": {
@@ -1152,29 +1094,29 @@
     }
   },
   {
-    "rank": 37,
-    "artist": "Beyoncé",
-    "monthlyListeners": 52.61,
+    "rank": 36,
+    "artist": "Peso Pluma",
+    "monthlyListeners": 53,
     "data": {
-      "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m",
+      "uri": "spotify:artist:12GqGscKJx3aE4t07u7eVZ",
       "profile": {
-        "name": "Beyoncé"
+        "name": "Peso Pluma"
       },
       "visuals": {
         "avatarImage": {
           "sources": [
             {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715",
+              "url": "https://i.scdn.co/image/ab6761610000e5eb730e71d60e047f1061a9e697",
               "width": 640,
               "height": 640
             },
             {
-              "url": "https://i.scdn.co/image/ab6761610000f17812e3f20d05a8d6cfde988715",
+              "url": "https://i.scdn.co/image/ab6761610000f178730e71d60e047f1061a9e697",
               "width": 160,
               "height": 160
             },
             {
-              "url": "https://i.scdn.co/image/ab6761610000517412e3f20d05a8d6cfde988715",
+              "url": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
               "width": 320,
               "height": 320
             }
@@ -1184,9 +1126,9 @@
     }
   },
   {
-    "rank": 38,
+    "rank": 37,
     "artist": "Adele",
-    "monthlyListeners": 52.16,
+    "monthlyListeners": 52.02,
     "data": {
       "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY",
       "profile": {
@@ -1216,9 +1158,9 @@
     }
   },
   {
-    "rank": 39,
+    "rank": 38,
     "artist": "Khalid",
-    "monthlyListeners": 52.15,
+    "monthlyListeners": 51.9,
     "data": {
       "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
       "profile": {
@@ -1248,9 +1190,41 @@
     }
   },
   {
+    "rank": 39,
+    "artist": "Beyoncé",
+    "monthlyListeners": 51.86,
+    "data": {
+      "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m",
+      "profile": {
+        "name": "Beyoncé"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb12e3f20d05a8d6cfde988715",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f17812e3f20d05a8d6cfde988715",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000517412e3f20d05a8d6cfde988715",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 40,
     "artist": "Future",
-    "monthlyListeners": 52.09,
+    "monthlyListeners": 51.45,
     "data": {
       "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
       "profile": {
@@ -1281,40 +1255,8 @@
   },
   {
     "rank": 41,
-    "artist": "Kendrick Lamar",
-    "monthlyListeners": 51.67,
-    "data": {
-      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-      "profile": {
-        "name": "Kendrick Lamar"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 42,
     "artist": "Bizarrap",
-    "monthlyListeners": 51.46,
+    "monthlyListeners": 51.43,
     "data": {
       "uri": "spotify:artist:716NhGYqD1jl2wI1Qkgq36",
       "profile": {
@@ -1344,9 +1286,9 @@
     }
   },
   {
-    "rank": 43,
+    "rank": 42,
     "artist": "Travis Scott",
-    "monthlyListeners": 51.19,
+    "monthlyListeners": 51.01,
     "data": {
       "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
       "profile": {
@@ -1376,9 +1318,73 @@
     }
   },
   {
+    "rank": 43,
+    "artist": "Kendrick Lamar",
+    "monthlyListeners": 50.93,
+    "data": {
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+      "profile": {
+        "name": "Kendrick Lamar"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f178437b9e2a82505b3d93ff1022",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 44,
+    "artist": "Rauw Alejandro",
+    "monthlyListeners": 50.84,
+    "data": {
+      "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+      "profile": {
+        "name": "Rauw Alejandro"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5eb320d115629a65c245a43b00f",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f178320d115629a65c245a43b00f",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616100005174320d115629a65c245a43b00f",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "rank": 45,
     "artist": "Ozuna",
-    "monthlyListeners": 50.64,
+    "monthlyListeners": 50.32,
     "data": {
       "uri": "spotify:artist:1i8SpTcr7yvPOmcqrbnVXY",
       "profile": {
@@ -1408,105 +1414,15 @@
     }
   },
   {
-    "rank": 45,
-    "artist": "Rauw Alejandro",
-    "monthlyListeners": 50.11,
-    "data": {
-      "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
-      "profile": {
-        "name": "Rauw Alejandro"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb6584a85fa605e4cba91ae250",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f1786584a85fa605e4cba91ae250",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab676161000051746584a85fa605e4cba91ae250",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
     "rank": 46,
     "artist": "Elton John",
-    "monthlyListeners": 50.09,
-    "data": {
-      "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b",
-      "profile": {
-        "name": "Elton John"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f1780a7388b95df960b5c0da8970",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab676161000051740a7388b95df960b5c0da8970",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
+    "monthlyListeners": 50.2,
+    "data": {}
   },
   {
     "rank": 47,
-    "artist": "Chris Brown",
-    "monthlyListeners": 49.98,
-    "data": {
-      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z",
-      "profile": {
-        "name": "Chris Brown"
-      },
-      "visuals": {
-        "avatarImage": {
-          "sources": [
-            {
-              "url": "https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1",
-              "width": 640,
-              "height": 640
-            },
-            {
-              "url": "https://i.scdn.co/image/ab6761610000f178e50aa80e0f5869f84f6874d1",
-              "width": 160,
-              "height": 160
-            },
-            {
-              "url": "https://i.scdn.co/image/ab67616100005174e50aa80e0f5869f84f6874d1",
-              "width": 320,
-              "height": 320
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "rank": 48,
     "artist": "OneRepublic",
-    "monthlyListeners": 49.87,
+    "monthlyListeners": 49.9,
     "data": {
       "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
       "profile": {
@@ -1536,9 +1452,41 @@
     }
   },
   {
+    "rank": 48,
+    "artist": "Chris Brown",
+    "monthlyListeners": 49.55,
+    "data": {
+      "uri": "spotify:artist:7bXgB6jMjp9ATFy66eO08Z",
+      "profile": {
+        "name": "Chris Brown"
+      },
+      "visuals": {
+        "avatarImage": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe50aa80e0f5869f84f6874d1",
+              "width": 640,
+              "height": 640
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6761610000f178e50aa80e0f5869f84f6874d1",
+              "width": 160,
+              "height": 160
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616100005174e50aa80e0f5869f84f6874d1",
+              "width": 320,
+              "height": 320
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
     "rank": 49,
     "artist": "Queen",
-    "monthlyListeners": 48.45,
+    "monthlyListeners": 48.55,
     "data": {
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
       "profile": {
@@ -1575,7 +1523,7 @@
   {
     "rank": 50,
     "artist": "Karol G",
-    "monthlyListeners": 48.33,
+    "monthlyListeners": 47.95,
     "data": {
       "uri": "spotify:artist:790FomKkXshlbRYZFtlgla",
       "profile": {

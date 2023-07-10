@@ -7,7 +7,7 @@ export function ArtistsTop50() {
 
   return (
     <>
-      {loading ? <Spinner /> : "<Podium artistsTop50={artistsTop50} />"}
+      {loading ? <Spinner /> : <Podium artistsTop50={artistsTop50} />}
     </>
   );
 }
