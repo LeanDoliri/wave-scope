@@ -1,4 +1,4 @@
-import { Card, Avatar, ListItem, List } from "@material-tailwind/react";
+import { Card, Avatar, ListItem, List, Button } from "@material-tailwind/react";
 
 export default function TopsTable({ songsTop200 }) {
   const songsTop10 = songsTop200.slice(0, 10);
@@ -36,6 +36,9 @@ export default function TopsTable({ songsTop200 }) {
           );
         })}
       </List>
+      <Button color="amber" className="bg-buttercup-400 shadow-none text-white mx-3 mb-3">
+        Ver más
+      </Button>
     </Card>
   );
 }
