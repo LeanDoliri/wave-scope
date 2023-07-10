@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <main className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <section className="mb-5 flex flex-col sm:items-center">
-          <Title text={"Artist top 50"} />
+          <Title text={"Top 50 artist"} />
           <ArtistsTop50 />
         </section>
         <section className="mb-5">

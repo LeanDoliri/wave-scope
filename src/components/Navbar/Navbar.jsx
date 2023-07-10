@@ -4,8 +4,9 @@ import { WaveScopeLogotipo } from "../../assets/wave-scope-icons";
 
 const navigation = [
   { name: "Home", href: "#", current: true },
+  { name: "Top 50 artists", href: "#", current: false },
+  { name: "Top 200 songs", href: "#", current: false },
   { name: "New Realeases", href: "#", current: false },
-  { name: "Top 200", href: "#", current: false },
 ];
 
 function classNames(...classes) {
